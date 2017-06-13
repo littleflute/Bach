@@ -1,4 +1,4 @@
-[v0.0.6](https://github.com/littleflute/Bach/edit/master/README.md)
+[v0.0.7](https://github.com/littleflute/Bach/edit/master/README.md)
 
 [Art of fugue Musical offering/cd1](Art of fugue Musical offering/cd1)
 
@@ -11,3 +11,7 @@
 [Partitas/cd1](Partitas/cd1)
 
 [Partitas/cd2](Partitas/cd2)
+
+[The art of fugue/cd1](The art of fugue/cd1)
+
+[The art of fugue/cd2](The art of fugue/cd2)
