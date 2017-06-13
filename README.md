@@ -1,4 +1,4 @@
-[v0.0.5](https://github.com/littleflute/Bach/edit/master/README.md)
+[v0.0.6](https://github.com/littleflute/Bach/edit/master/README.md)
 
 [Art of fugue Musical offering/cd1](Art of fugue Musical offering/cd1)
 
@@ -7,3 +7,7 @@
 [Goldberg variations/cd](Goldberg variations/cd)
 
 [Jacques Loussier plays bach](Jacques Loussier plays bach)
+
+[Partitas/cd1](Partitas/cd1)
+
+[Partitas/cd2](Partitas/cd2)
